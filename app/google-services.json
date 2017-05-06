@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1067231528741",
+    "firebase_url": "https://dogemate-2351f.firebaseio.com",
+    "project_id": "dogemate-2351f",
+    "storage_bucket": "dogemate-2351f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067231528741:android:3817562d727ec45d",
+        "android_client_info": {
+          "package_name": "com.proyecto.dogmate.dogmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067231528741-8k3fskaatl5ej1fvjtbtst8mospu9gqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4jV3OqnHIqS4BX5gIiDkZvJ07rKJl7Z8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

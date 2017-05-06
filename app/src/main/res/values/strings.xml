@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DogMate</string>
+    <string name="title_activity_main2_sesion_activada">Main2SesionActivada</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
